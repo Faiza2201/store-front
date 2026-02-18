@@ -1,4 +1,3 @@
-
 <template>
   <div class="store-container">
     <!-- Header with store name and tagline -->
